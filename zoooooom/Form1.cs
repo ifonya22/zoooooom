@@ -38,7 +38,7 @@ namespace zoooooom
                 
                 var process = Process.GetProcessesByName("zoom", Environment.MachineName);
                 // не забудьте поверку ошибок: вдруг у вас не нашлось ни одного процесса?
-                int variable = 0;// 1 or 0
+                int variable = 1;// 1 or 0
                 var hwnd = process[variable].MainWindowHandle;
                 GetWindowRect(hwnd, out var rect);
                 SetForegroundWindow(process[variable].MainWindowHandle);
