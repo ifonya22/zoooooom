@@ -1,0 +1,10 @@
+C:\Users\ilya\source\repos\zoooooom\zoooooom\bin\Release\zoooooom.exe.config
+C:\Users\ilya\source\repos\zoooooom\zoooooom\bin\Release\zoooooom.exe
+C:\Users\ilya\source\repos\zoooooom\zoooooom\bin\Release\zoooooom.pdb
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.csprojAssemblyReference.cache
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.Form1.resources
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.Properties.Resources.resources
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.csproj.GenerateResource.cache
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.csproj.CoreCompileInputs.cache
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.exe
+C:\Users\ilya\source\repos\zoooooom\zoooooom\obj\Release\zoooooom.pdb
